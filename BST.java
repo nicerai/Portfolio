@@ -1,6 +1,3 @@
-package Lab5;
-
-
 // Node class represents a single node in the binary search tree
 class Node {
     int key; // Key value stored in the node
