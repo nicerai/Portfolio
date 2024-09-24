@@ -1,11 +1,9 @@
-package Lab5;
-
 // Node class represents a single node in the binary search tree
 class Node {
     int key; // Key value stored in the node
     Node left, right; // References to the left and right child nodes
 
-    // Constructor to initialize a new node with given key
+    // Constructor to initialize a new node with the given key
     Node(int item) {
         key = item;
         left = right = null; // Initialize left and right children to null
