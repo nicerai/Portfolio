@@ -1,5 +1,3 @@
-package Lab5;
-
 // BST class implements Binary Search Tree operations
 public class BSTInOrder {
     Node root; // Reference to the root of the BST
